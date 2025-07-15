@@ -20,7 +20,7 @@ The gripper successfully demonstrates versatile grasping capabilities, from deli
 
 ### Live Grasping Demonstration
 <!-- IMPORTANT: Create a GIF of your gripper in action and replace the URL below -->
-![Gripper Demo GIF](https://i.imgur.com/your_gripper_demo.gif)
+![Gripper Demo GIF](full_demostration.gif)
 *<p align="center">The gripper performing various pick-and-place tasks.</p>*
 
 ### Object Handling Capabilities
